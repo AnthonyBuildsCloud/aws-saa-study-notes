@@ -110,7 +110,7 @@ In AWS, compute ranges from virtual servers to containers to serverless function
 
 ---
 
-## Things You May Be Fuzzy On (Review Targets)
+## Things Im Fuzzy On (Review Targets)
 - ALB vs NLB (Layer 7 routing vs Layer 4 performance)
 - “Scaling up” vs “scaling out” and when ASG is the better play
 - When to choose ECS vs EKS (AWS-native vs Kubernetes requirement)
