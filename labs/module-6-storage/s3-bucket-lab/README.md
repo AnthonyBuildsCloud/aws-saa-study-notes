@@ -40,26 +40,26 @@ A simple S3 bucket organized by prefixes:
 
 ## Evidence (Screenshots)
 
-1) Bucket created  
-![Bucket created](./screenshots/01-bucket-created.png)
+1. Bucket / prefix structure (top-level folders)
+   ![Bucket prefix structure](./screenshots/01-bucket-prefix-structure.png)
 
-2) Objects uploaded (upload succeeded)  
-![Upload succeeded](./screenshots/02-upload-succeeded.png)
+2. Upload succeeded (objects uploaded)
+   ![Upload succeeded](./screenshots/02-upload-succeeded.png)
 
-3) Prefix structure view (data/docs/images/logs/tmp/archive)  
-![Prefix structure](./screenshots/03-prefix-structure.png)
+3. Prefix structure view (detail)
+   ![Prefix structure](./screenshots/03-prefix-structure.png)
 
-4) Bucket Versioning enabled (Properties tab)  
-![Versioning enabled](./screenshots/04-versioning-enabled.png)
+4. Bucket Versioning enabled (Properties tab)
+   ![Versioning enabled](./screenshots/04-versioning-enabled.png)
 
-5) docs/ with **Show versions ON** (versions + delete marker)  
-![Show versions ON](./screenshots/05-docs-show-versions-on.png)
+5. docs/ with Show versions ON (versions + delete marker)
+   ![Show versions ON](./screenshots/05-docs-show-versions-on.png)
 
-6) docs/ with **Show versions OFF** (final clean view)  
-![Show versions OFF](./screenshots/06-docs-show-versions-off-clean.png)
+6. docs/ with Show versions OFF (final clean view)
+   ![Show versions OFF](./screenshots/06-docs-show-versions-off.png)
 
-7) Bonus — Recovery proof (optional)  
-![After recovery clean](./screenshots/07-docs-after-recovery-clean.png)
+7. Bonus — After recovery clean (optional)
+   ![After recovery clean](./screenshots/7-docs-after-recovery-clean.png)
 
 
 > Tip: blur account ID in the top right if visible.
