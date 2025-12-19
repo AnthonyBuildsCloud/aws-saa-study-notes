@@ -39,13 +39,28 @@ A simple S3 bucket organized by prefixes:
 - Successfully performed a full delete (versions + delete marker)
 
 ## Evidence (Screenshots)
-Add your screenshots here:
-- [ ] Bucket created (bucket list showing name + region)
-- [ ] Objects uploaded (upload succeeded list)
-- [ ] Prefix structure view (data/docs/images/logs/tmp/archive)
-- [ ] Bucket Versioning enabled (Properties tab)
-- [ ] docs/ with **Show versions ON** (shows versions + delete marker)
-- [ ] docs/ with **Show versions OFF** (final clean view)
+
+1) Bucket created  
+![Bucket created](./screenshots/01-bucket-created.png)
+
+2) Objects uploaded (upload succeeded)  
+![Upload succeeded](./screenshots/02-upload-succeeded.png)
+
+3) Prefix structure view (data/docs/images/logs/tmp/archive)  
+![Prefix structure](./screenshots/03-prefix-structure.png)
+
+4) Bucket Versioning enabled (Properties tab)  
+![Versioning enabled](./screenshots/04-versioning-enabled.png)
+
+5) docs/ with **Show versions ON** (versions + delete marker)  
+![Show versions ON](./screenshots/05-docs-show-versions-on.png)
+
+6) docs/ with **Show versions OFF** (final clean view)  
+![Show versions OFF](./screenshots/06-docs-show-versions-off-clean.png)
+
+7) Bonus — Recovery proof (optional)  
+![After recovery clean](./screenshots/07-docs-after-recovery-clean.png)
+
 
 > Tip: blur account ID in the top right if visible.
 
