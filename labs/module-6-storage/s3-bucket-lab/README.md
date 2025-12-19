@@ -59,7 +59,7 @@ A simple S3 bucket organized by prefixes:
    ![Show versions OFF](./screenshots/06-docs-show-versions-off.png)
 
 7. Bonus — After recovery clean (optional)
-   ![After recovery clean](./screenshots/7-docs-after-recovery-clean.png)
+   ![After recovery clean](./screenshots/07-docs-after-recovery-clean.png)
 
 
 
