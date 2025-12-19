@@ -62,7 +62,6 @@ A simple S3 bucket organized by prefixes:
    ![After recovery clean](./screenshots/7-docs-after-recovery-clean.png)
 
 
-> Tip: blur account ID in the top right if visible.
 
 ## Key takeaways
 - “Folders” in S3 are really **prefixes**, not real directories.
