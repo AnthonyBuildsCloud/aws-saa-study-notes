@@ -9,7 +9,8 @@ Structured notes for AWS Solutions Architect Associate (SAA). Built as a living 
 - [Module 4 – Going Global](notes/module-04-going-global.md)
 - [Module 5 – Networking](notes/module-05-networking.md)
 - [Module 6 – Storage](notes/module-06-storage.md)
-
+- [Module 07 — Databases](notes/module-07-databases.md)
+  
 ## How I’m using this repo
 - High-yield summaries by module
 - 5 key takeaways per module
