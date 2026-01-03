@@ -10,8 +10,8 @@ Structured notes for AWS Solutions Architect Associate (SAA). Built as a living 
 - [Module 5 – Networking](notes/module-05-networking.md)
 - [Module 6 – Storage](notes/module-06-storage.md)
 - [Module 7 — Databases](notes/module-07-databases.md)
-- [Module 08 — AI/ML & Data Analytics](notes/module-08-ai-ml-data-analytics.md)
-- [Module 09 — Security](notes/module-09-security.md)
+- [Module 8 — AI/ML & Data Analytics](notes/module-08-ai-ml-data-analytics.md)
+- [Module 9 — Security](notes/module-09-security.md)
 - [Module 10 — Monitoring, Compliance, and Governance](notes/module-10-monitoring-compliance.md)
  
 ## How I’m using this repo
