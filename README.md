@@ -3,6 +3,7 @@
 
 - **AWS Cloud Practitioner Essentials (AWS Skill Builder)** — Completed  
   - Summary: [Training overview](training/aws-cloud-practitioner-essentials.md)
+  - Proof: [Completion certificate (PDF)](training/aws-cloud-practitioner-essentials-completion.pdf)
   - Scope: Modules 1–13 (core services, security, pricing, migration, Well-Architected Framework)
 
 
