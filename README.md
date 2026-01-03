@@ -15,6 +15,7 @@ Structured notes for AWS Solutions Architect Associate (SAA). Built as a living 
 - [Module 10 — Monitoring, Compliance, and Governance](notes/module-10-monitoring-compliance-governance.md)
 - [Module 11 — Pricing and Support](notes/module-11-pricing-and-support.md)
 - [Module 12 — Migrating to the AWS Cloud](notes/module-12-migrating-to-the-aws-cloud.md)
+- [Module 13 — Well-Architected Solutions](notes/module-13-well-architected-solutions.md)
 
 ## How I’m using this repo
 - High-yield summaries by module
