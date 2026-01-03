@@ -39,6 +39,10 @@
 - Practical use cases for **Cost & Usage Reports** vs Cost Explorer
 
 ## Quick self-quiz (3 questions)
-1) If I want alerts when my AWS spend exceeds a limit, I use: _____ because _____.
-2) If I want discounted pricing for predictable compute usage, I choose: _____ because _____.
-3) If I need 24/7 production support with fast response times, I need: _____ because _____.
+1) If I want alerts when my AWS spend exceeds a limit, I use:
+AWS Budgets because it allows me to set cost or usage thresholds and sends notifications when those thresholds are exceeded..
+2) If I want discounted pricing for predictable compute usage, I choose:
+Savings Plans because they provide flexible discounts based on committed compute usage across services and instance types.
+(Reserved Instances are used when workloads are extremely stable.).
+3) If I need 24/7 production support with fast response times, I need:
+AWS Business Support (or Enterprise Support) because these plans provide access to AWS engineers and faster response SLAs..
