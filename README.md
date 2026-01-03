@@ -1,4 +1,10 @@
-D# aws-saa-study-notes# AWS SAA Study Notes
+# AWS-SAA-Study-notes# AWS SAA Study Notes
+## Training & Coursework
+
+- **AWS Cloud Practitioner Essentials (AWS Skill Builder)** — Completed  
+  - Summary: [Training overview](training/aws-cloud-practitioner-essentials.md)
+  - Scope: Modules 1–13 (core services, security, pricing, migration, Well-Architected Framework)
+
 
 Structured notes for AWS Solutions Architect Associate (SAA). Built as a living proof-of-work repo.
 
