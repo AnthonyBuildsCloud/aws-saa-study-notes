@@ -36,6 +36,12 @@
 - Differences between Trusted Advisor checks and Well-Architected reviews
 
 ## Quick self-quiz (3 questions)
-1) What is the main purpose of the AWS Well-Architected Framework?  
+1) What is the main purpose of the AWS Well-Architected Framework? To help architects design, evaluate, and continuously improve cloud workloads using AWS best practices so they are secure, reliable, high-performing, cost-optimized, and sustainable.  
 2) Name at least three of the six Well-Architected pillars.  
-3) Why do serverless services align well with the Well-Architected Framework?
+Operational Excellence
+Security
+Reliability
+Performance Efficiency
+Cost Optimization
+Sustainability
+3) Why do serverless services align well with the Well-Architected Framework? Because serverless services offload infrastructure management to AWS, automatically scale, improve reliability and security by default, optimize costs through pay-per-use pricing, and support high performance with minimal operational overhead.
