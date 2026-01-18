@@ -6,14 +6,13 @@
   - Proof: Completion certificate (PDF)  
   - Scope: Modules 1–13 (core services, security, pricing, migration, Well-Architected Framework)
 
-- **AWS Technical Essentials** (AWS Skill Builder) — Completed  
-  - Focus: Core AWS services and hands-on fundamentals  
-  - Reinforced:
-    - EC2, S3, IAM, VPC
-    - Shared Responsibility Model
-    - Basic architecture patterns
-    - Security and cost awareness
-  - Context: Completed as part of the *Exam Prep Plan — AWS Certified Cloud Practitioner (CLF-C02)*
+- **Exam Prep Plan: AWS Certified Cloud Practitioner (CLF-C02)** — In Progress  
+  - Completed:
+    - AWS Technical Essentials
+  - Focus:
+    - Core AWS services (EC2, S3, IAM, VPC)
+    - Foundational architecture and security concepts
+  - Status: Domain reviews and practice exams upcoming
 
 
 Structured notes for AWS Solutions Architect Associate (SAA). Built as a living proof-of-work repo.
