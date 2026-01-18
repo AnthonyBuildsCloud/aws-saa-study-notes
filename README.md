@@ -1,10 +1,19 @@
 # AWS-SAA-Study-notes# AWS SAA Study Notes
 ## Training & Coursework
 
-- **AWS Cloud Practitioner Essentials (AWS Skill Builder)** — Completed  
-  - Summary: [Training overview](training/aws-cloud-practitioner-essentials.md)
-  - Proof: [Completion certificate (PDF)](training/aws-cloud-practitioner-essentials-completion.pdf)
+- **AWS Cloud Practitioner Essentials** (AWS Skill Builder) — Completed  
+  - Summary: Training overview  
+  - Proof: Completion certificate (PDF)  
   - Scope: Modules 1–13 (core services, security, pricing, migration, Well-Architected Framework)
+
+- **AWS Technical Essentials** (AWS Skill Builder) — Completed  
+  - Focus: Core AWS services and hands-on fundamentals  
+  - Reinforced:
+    - EC2, S3, IAM, VPC
+    - Shared Responsibility Model
+    - Basic architecture patterns
+    - Security and cost awareness
+  - Context: Completed as part of the *Exam Prep Plan — AWS Certified Cloud Practitioner (CLF-C02)*
 
 
 Structured notes for AWS Solutions Architect Associate (SAA). Built as a living proof-of-work repo.
